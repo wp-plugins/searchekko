@@ -38,7 +38,7 @@ You can modify the CSS of the widget as described [here](http://www.searchekko.c
 
 = Why doesn't the widget display on my site? =
 
-Firstly, remember that the widget only displays if you arrive at the site from a search engine.  Secondly, the widget requires a space at least 480px wide in order to display -- this rules out most sidebars.  (The reason for the width requirement is that it is difficult to adequately display the matching results with anything narrower.)  Otherwise, it looks like you've found a bug :).  Please email me about it at noah at anoaharc.com!
+Firstly, remember that the widget only displays if you arrive at the site from a search engine.  Secondly, the widget requires a space at least 480px wide in order to display -- this rules out most sidebars.  (The reason for the width requirement is that it's hard to display the matching results with anything narrower.)  Otherwise, it looks like you've found a bug :).  Please email me about it at noah at anoaharc.com!
 
 == Screenshots ==
 
