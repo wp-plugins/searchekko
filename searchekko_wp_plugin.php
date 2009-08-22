@@ -36,7 +36,7 @@ function searchekko_inject($content) {
 	//only display for single pages (not home page with snippets etc)
 	if (is_single()) {
 		//if long enough post, insert a collapsed searchekko widget below first paragraph
-		if (str_word_count($content) > 200 && substr_count($content, "<p>") >= 4) {
+		if (str_word_count($content) > 200 && substr_count($content, "<p>") >= 3) {
 			//get end location of first paragraph
 			$closeParIx = strpos($content, "</p>") + 4;
 			$content = substr_replace($content, $collWidget, $closeParIx, 0);
