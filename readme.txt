@@ -9,7 +9,7 @@ SearchEkko is a "related posts" widget that uses visitors' search referral terms
 
 == Description ==
 
-[SearchEkko](http://www.searchekko.com) is like a "related articles" widget, but it only displays to visitors who arrive from a search engine.  It then uses their individual search queries to identify and present the best-matching posts on your site.
+[SearchEkko](http://www.searchekko.com) is like a "related posts" widget for your blog, but it's only visible to readers who arrive from a search engine. It uses each visitor's search query to find the best-matching pages on your site.
  
 For example, imagine that a user searches "new cars" at Google, and one of your posts shows up as a top hit.  They then click the link and arrive at your site.  The SearchEkko widget notices that the visitor arrived from a search engine, and that their query was "new cars".  It then finds all the best pages on your site for that query, and presents them to the user.
 
